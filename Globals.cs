@@ -2,7 +2,7 @@
 {
     public class Globals
     {
-        public static string coreVersion = "0.1";
+        public static string coreVersion = "0.2";
         public class SYNPROFILER
         {
             public static string version = "0.1";

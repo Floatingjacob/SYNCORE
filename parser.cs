@@ -65,7 +65,6 @@
             return Task.FromResult(t); // Return the translation
         }
 
-
         public static Task<string> parseSubmenu(string[] submenu)
         {
             string menu = "";
